@@ -1,0 +1,3 @@
+Mahsulot nomi: non
+Mahsulot narxi: 4000
+Mahsulot miqdori: 5

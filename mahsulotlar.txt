@@ -1,0 +1,4 @@
+Mahsulot: non 4000 5
+Mahsulot: sut 12000 7
+Mahsulot: shakar 15000 3
+Mahsulot: un 13000 8

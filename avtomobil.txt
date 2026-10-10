@@ -1,0 +1,6 @@
+Marka: Chevrolet
+Yil: 2021
+Narx: 180000
+Avtomobil: BMW 13465 2022
+Avtomobil: Mers 78956 2026
+Avtomobil: tayot 56456 2000
